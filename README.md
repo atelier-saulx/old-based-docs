@@ -1,5 +1,9 @@
 <!-- > //TODO this should be written by someone that actually knows how to write. -->
 
+# :exclamation: ARCHIVED REPO
+
+This repo has been archived, all the documentation as been moved to the [based](https://github.com/atelier-saulx/based/) public repo.
+
 # Documentation
 
 **Based** as a data platform offers tool to change it's server-side behaviour, as well as tool to develop on the client side.
